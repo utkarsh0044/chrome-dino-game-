@@ -1,4 +1,6 @@
 # chrome-dino-game
+LINK -- https://utkarsh0044.github.io/chrome-dino-game-/
+
 Chrome Dino game is a simple but addictive side-scrolling game that can be played on the Google Chrome browser. It is also known as the "offline dinosaur game" because it is only accessible when the user's internet connection is down.
 
 The objective of the game is to guide a pixelated dinosaur through an endless desert while avoiding obstacles such as cacti and pterodactyls. The dinosaur can jump and duck to avoid obstacles and earn points for distance traveled.
